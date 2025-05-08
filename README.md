@@ -1,6 +1,6 @@
 # 🏃‍♂️ 50-Mile Race Data Analysis Project
 This end-to-end data analysis project explores and visualizes real-world endurance race data from a 50-mile ultramarathon event. The goal is to derive insights about race performance, runner demographics, and pacing trends through a full modern data workflow. This project demonstrates key data analysis skills including data cleaning, data wrangling, SQL querying, and interactive dashboard development using Looker Studio. 
-📌 [Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/c2f92b9e-8a38-4d25-9d96-68377180c03f)
+ 📌 [Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/c2f92b9e-8a38-4d25-9d96-68377180c03f)
 
 ## 🧰 Tools & Technologies Used
 - Excel – Initial data inspection and basic cleaning
